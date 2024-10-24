@@ -11,6 +11,7 @@ h1 {
  .column {
     float: left;
     width: 33.33%;
+    justify-content: center;
   }
   
   /* Clear floats after the columns */
@@ -26,6 +27,10 @@ h1 {
       width: 100%;
     }
   } 
+
+  gallery {
+    padding: 2mm;
+  }
   
   div.gallery:hover {
     border: 1px solid #777;
