@@ -1,6 +1,6 @@
 # Cut Through Marketing Jargon—Discover What's Really in Your Food
 
-<div>
+<div class="row">
 <div class="gallery column">
   <a target="_blank" href="assets/images/screenshots/shopping.png">
     <img src="assets/images/screenshots/shopping.png">
@@ -22,7 +22,7 @@
 </div>
 <br />
 
-<div class="site-footer">
+<div class="row">
 
 ## Start Scanning Today!
 
