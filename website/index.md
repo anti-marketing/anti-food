@@ -3,19 +3,19 @@
 <div>
 <div class="gallery column">
   <a target="_blank" href="assets/images/screenshots/shopping.png">
-    <img src="assets/images/screenshots/shopping.png" height="500">
+    <img src="assets/images/screenshots/shopping.png">
   </a>
   <div class="desc">Aquire a healthy and personalized experience</div>
 </div>
 <div class="gallery column">
   <a target="_blank" href="assets/images/screenshots/keywords.png">
-    <img src="assets/images/screenshots/keywords.png" height="500">
+    <img src="assets/images/screenshots/keywords.png">
   </a>
   <div class="desc">Be informed through multiple sources</div>
 </div>
 <div class="gallery column">
   <a target="_blank" href="assets/images/screenshots/results_colors.png">
-    <img src="assets/images/screenshots/results_colors.png" height="500">
+    <img src="assets/images/screenshots/results_colors.png">
   </a>
   <div class="desc">Unlock the secrets behind your food</div>
 </div>
