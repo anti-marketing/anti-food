@@ -1,4 +1,4 @@
-# Cut Through Marketing Jargon—Discover What's Really in Your Food
+# <img src="assets/images/logo.svg" height="40"> Cut Through Marketing Jargon—Discover What's Really in Your Food
 
  <img src="assets/images/screenshots/shopping.png" height="400"> <img src="assets/images/screenshots/keywords.png" height="400"> <img src="assets/images/screenshots/results_colors.png" height="400">
 
