@@ -24,11 +24,11 @@
 <h2 > Start Scanning Today! </h2>
 </div>
 <div class="column">
-<a href="https://play.google.com/store/apps/details?id=pt.trifan.stanislav.anti.food">  <img src="assets/images/play_store.svg" height="50"> </a>
+<a href="https://play.google.com/store/apps/details?id=pt.trifan.stanislav.anti.food">  <img src="assets/images/play_store.svg" height="50" class="center"> </a>
 
 </div>
 <div class="column">
- <a href="https://testflight.apple.com/join/9N4gEYZY"> <img src="assets/images/app_store.svg" height="50"> </a>
+ <a href="https://testflight.apple.com/join/9N4gEYZY"> <img src="assets/images/app_store.svg" height="50" class="center"> </a>
 
 </div>
 
