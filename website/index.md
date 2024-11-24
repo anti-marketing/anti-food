@@ -28,7 +28,7 @@
 
 </div>
 <div class="column">
- <a href="https://testflight.apple.com/join/9N4gEYZY"> <img src="assets/images/app_store.svg" height="50" class="center"> </a>
+ <a href="https://apps.apple.com/us/app/anti-food-ingredients-checker/id6636546687"> <img src="assets/images/app_store.svg" height="50" class="center"> </a>
 
 </div>
 
